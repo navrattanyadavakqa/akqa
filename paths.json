@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/akqa/:/",
+    "/content/akqa/configuration:/.helix/config.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/akqa/",
+    "/content/dam/akqa/"
   ]
 }
